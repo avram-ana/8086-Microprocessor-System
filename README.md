@@ -8,7 +8,7 @@ This project implements a complete microprocessor-based system using the Intel 8
 
 The design focuses on understanding how individual hardware components interact at a low level to form a functional computing system.
 
-⚙️ Features
+#⚙️ Features
 Intel 8086 microprocessor integration
 Memory interfacing (RAM/ROM)
 Peripheral communication via programmable interfaces
@@ -17,7 +17,7 @@ Logic control using gates and decoders
 Full system schematic design
 Hardware Components
 
-📐 The system includes:
+#📐 Components:
 8086 Microprocessor
 Memory modules (SRAM/EPROM)
 Programmable Peripheral Interface (8255)
